@@ -1,0 +1,50 @@
+1. Revenue Drivers
+
+Which products and categories contribute the most to total revenue?
+→ Helps focus inventory and marketing
+
+2. Customer Value
+
+Which customer segments generate the highest revenue? (income, education, etc.)
+→ Helps target high-value customers
+
+3. Store Performance
+
+Which stores perform best and worst in terms of revenue and transactions?
+→ Identify expansion or closure decisions
+
+4. Time Trends
+
+How does sales vary over time (monthly / yearly)? Are there seasonal patterns?
+→ Helps forecasting and planning
+
+5. Return Analysis
+
+Which products have the highest return rates?
+→ Signals quality or expectation issues
+
+6. Store-level Returns
+
+Which stores have unusually high return rates?
+→ Could mean staff issues, fraud, or poor inventory
+
+7. Customer Behavior
+
+Do repeat customers spend more than new customers?
+→ Helps retention strategy
+
+8. Product Performance vs Returns
+
+Are high-selling products also high-return products?
+→ Classic business trade-off
+
+9. Demographics vs Spending
+
+How do age, income, or occupation affect purchase behavior?
+→ Helps segmentation and personalization
+
+10. Sales Efficiency
+
+Which stores generate the highest revenue per customer?
+→ Measures operational efficiency
+
